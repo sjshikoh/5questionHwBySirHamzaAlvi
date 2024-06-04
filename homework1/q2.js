@@ -3,7 +3,6 @@
 // • Compare the entered number with a dynamic number value.
 // • Output the result indicating whether the entered number is greater than, equal to, or less 
 // than the dynamic number value.
-
 import inquirer from "inquirer";
 const randomNumber = 6;
 const userNumber = await inquirer.prompt([

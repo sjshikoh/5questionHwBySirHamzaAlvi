@@ -5,7 +5,6 @@
 // • Store the converted distance in kilometers in a variable named kilometers.
 // • Use console.log to print a message in the following format: 
 // The distance of 130 kms is equal to 209.2142 miles
-
 let miles = 9;
 let kilometers = miles * 1.60934;
 console.log(`The distance of ${kilometers} kms is equal to ${miles} miles`);
